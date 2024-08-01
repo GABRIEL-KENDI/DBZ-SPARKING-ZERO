@@ -7,3 +7,7 @@
 <a href="https://store.steampowered.com/app/1790600/DRAGON_BALL_Sparking_ZERO/" target="_blank">
 <img src="./imagens do projeto/header_alt_assets_0_brazilian.jpg" alt="dragon ball z pré venda">
 </a>
+
+## Tecnologias utilizadas
+- HTML
+- CSS
