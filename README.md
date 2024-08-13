@@ -8,6 +8,8 @@
 <img src="./imagens do projeto/header_alt_assets_0_brazilian.jpg" alt="dragon ball z pré venda">
 </a>
 
+<p>Lançamento do jogo previsto para dia <b>10 de outubro</b>
+
 ## Tecnologias utilizadas
 - HTML
 - CSS
