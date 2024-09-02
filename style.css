@@ -12,6 +12,7 @@ h1{
 .div-titulo{
     background-color: #06122D;
     text-align: left;
+    
 }
 
 
@@ -29,9 +30,6 @@ h1{
     width: 800px;
     height: 800px;
 }
-
-
-
 
 .texto{
     padding: 10px;
